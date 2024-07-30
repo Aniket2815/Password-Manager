@@ -21,6 +21,9 @@ nav {
     font-size: 25px;
     cursor: pointer;
 }
+.container{
+background-color: #f0f0f0;
+}
 
 ul {
     display: flex;
